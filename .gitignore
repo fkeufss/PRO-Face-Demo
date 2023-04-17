@@ -1,0 +1,24 @@
+/facerecognize/face_database/*.jpg
+/testimg/*.jpg
+/.idea
+
+# 大文件
+/proface/hybrid_AdaFaceIR100_ep16_iter5000.pth
+
+/SimSwap/arcface_model/arcface_checkpoint.tar
+/SimSwap/parsing_model/checkpoint/79999_iter.pth
+/SimSwap/models/checkpoints/people/latest_net_D1.pth
+/SimSwap/models/checkpoints/people/latest_net_D2.pth
+/SimSwap/models/checkpoints/people/latest_net_G.pth
+/SimSwap/insightface_func/models/antelope/scrfd_10g_bnkps.onnx
+/SimSwap/insightface_func/models/antelope/glintr100.onnx
+
+/facerecognize/face/checkpoints/AdaFace/adaface_ir101_ms1mv2.ckpt
+
+/facerecognize/AdaFace/face_alignment/mtcnn_pytorch/caffe_models/det3.caffemodel
+/facerecognize/AdaFace/face_alignment/mtcnn_pytorch/caffe_models/det4.caffemodel
+/facerecognize/AdaFace/face_alignment/mtcnn_pytorch/src/weights/onet.npy
+
+/faceshifter/face_modules/model_ir_se50.pth
+/faceshifter/saved_models/G_latest.pth
+/faceshifter/face_modules/mtcnn_pytorch/src/weights/onet.npy
